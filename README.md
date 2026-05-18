@@ -1,34 +1,4 @@
-**IMPORTANT**
-In the "ALL OTHER CODING PROJECTS" I uploaded a second time all of my coding projects (which is the same code I sent in the media of the maker portfolio, except that it is in the right formats like .py, instead of the .pdf formats I sent). They are all working versions of my projects. I have also included previous versions of each code, if it may be interesting to have.
-
-
 **MOREOVER**
 After downloading the files from this Github page, I am only able to fully open and run the **compressed** (.zip) version of my Godot project. The second **uncompressed** version of the project that is on the Github does not totally work; I am not able to fully open it. I still added both **compressed** and **uncompressed** versions if they are needed though. So if one doesn't work, then try the other one. 
 (This issue is probably due to the fact that some of the files of the uncompressed version of the code is lost/deleted when submitted to Github, however, I believe that we can still make it fully work afterwards. I just don't know how to do it)
 
-I currently have Godot at version 4.4.1
-
-This github page includes the code of the video **game on Sysiphus** (**Ascent from the depths**) submitted to the **2025's GMTK game jam on itch.io**. The working game on the browser can be accessed through this link: https://henry-mcneill.itch.io/ascent-from-the-depths
-or alternatively, you can research "Ascent from the Depths" on itch.io
-
-Moreover, you can access the comments left by developpers and results of my GMTK game jam participation in the followiung link: https://itch.io/jam/gmtk-2025/rate/3782004
-
-
-Credits: 
-
-Henry McNeill - Programmer, Game & Music Designer
-
-
-External assets: 
-
-Font: https://fonts.google.com/specimen/Cinzel?query=cinzel
-
-Textures:
-
-https://craftpix.net/product/platformer-pixel-art-hell-2d-tileset/ 
-https://www.gamedeveloperstudio.com/graphics/viewgraphic.php?page-name=Boulder&item=1v655s0q4n4m4w3r9d
-https://opengameart.org/content/2-seamless-lava-tiles 
-https://bdragon1727.itch.io/pixel-gate-03 https://craftpix.net/product/old-hero-chibi-style-character-sprites/
-SFX:
-
- https://pixabay.com/sound-effects/rocks-6129/ https://www.epidemicsound.com/sound-effects/tracks/503c2efa-c8e3-437b-b84d-2023401d7c34/# Godot-GMTK-video-game-
