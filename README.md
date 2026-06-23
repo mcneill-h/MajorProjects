@@ -43,7 +43,7 @@ You can also check the projects individually on their repective Github pages.
 **Home Designer:**
 <https://github.com/mcneill-h/Home-Designer>
 <p align="center">
-<img width="389" height="212" alt="image" src="https://github.com/user-attachments/assets/b07698c1-c619-411e-a45f-d345a4a9823d" />  <img width="559" height="212" alt="2222" src="https://github.com/user-attachments/assets/bdb049c1-0b73-4014-b28d-fa55bb6a302e" /> 
+<img width="348" height="212" alt="image" src="https://github.com/user-attachments/assets/b07698c1-c619-411e-a45f-d345a4a9823d" />  <img width="500" height="212" alt="2222" src="https://github.com/user-attachments/assets/bdb049c1-0b73-4014-b28d-fa55bb6a302e" /> 
 </p>
 
 **Cat Chaos:**
@@ -52,7 +52,6 @@ You can also check the projects individually on their repective Github pages.
 I have not released the source code for this project yet, as it is a commercial game currently available on the App Store. 
 Instead, the game's support and privacy repositories links are copied above.
 <p align="center">
-<img width="250" height="250" alt="Screenshot 2026-06-23 at 21 39 28" src="https://github.com/user-attachments/assets/3708e962-87c4-46e4-9019-61979d9f54df" /> <img width="115" height="250" alt="01 copy 2" src="https://github.com/user-attachments/assets/763cb19a-082e-4823-adc9-946d500a8c33" />  <img width="115" height="250" alt="02 copy" src="https://github.com/user-attachments/assets/7d930e05-0a96-49d6-942c-98555c2e693b" />  <img width="115" height="250" alt="03 copy" src="https://github.com/user-attachments/assets/4ce3d94d-b53a-4445-b789-5b964b20f90f" />  
-<img width="115" height="250" alt="04 copy 2" src="https://github.com/user-attachments/assets/083116f7-0de6-43fd-a11a-9449422cf1f0" />
+<img width="250" height="250" alt="Screenshot 2026-06-23 at 21 39 28" src="https://github.com/user-attachments/assets/3708e962-87c4-46e4-9019-61979d9f54df" />  <img width="115" height="250" alt="01 copy 2" src="https://github.com/user-attachments/assets/7ba44d1e-a0db-4869-a1a8-5607c8fe1c62" />  <img width="116" height="250" alt="02 copy" src="https://github.com/user-attachments/assets/916f1060-51be-43e7-a3e4-c5c92279b4c2" />  <img width="116" height="250" alt="03 copy" src="https://github.com/user-attachments/assets/547d0696-b688-4439-8b9c-4dc9e11ef16d" />  <img width="116" height="250" alt="04 copy 2" src="https://github.com/user-attachments/assets/6a4ff3d6-a171-4c25-94fc-d1a73da8058a" />
 </p>
 
