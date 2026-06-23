@@ -44,10 +44,11 @@ You can also check the projects individually on their repective Github pages.
 </p>
 
 **Cat Chaos:**
+<https://github.com/mcneill-h/CatChaosSupport>  <https://github.com/mcneill-h/CatChaosPrivacy>
+
 I have not released the source code for this project yet, as it is a commercial game currently available on the App Store. 
-Instead, here are the game's support and privacy repositories links:
-<https://github.com/mcneill-h/CatChaosSupport>
-<https://github.com/mcneill-h/CatChaosPrivacy>
+Instead, the game's support and privacy repositories links are copied above.
 <p align="center">
+<img width="209" height="209" alt="Screenshot 2026-06-23 at 21 39 28" src="https://github.com/user-attachments/assets/3708e962-87c4-46e4-9019-61979d9f54df" />
 </p>
 
