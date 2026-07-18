@@ -49,11 +49,14 @@ You can also check the projects individually on their repective Github pages.
 <img width="348" height="212" alt="image" src="https://github.com/user-attachments/assets/b07698c1-c619-411e-a45f-d345a4a9823d" />  <img width="500" height="212" alt="2222" src="https://github.com/user-attachments/assets/bdb049c1-0b73-4014-b28d-fa55bb6a302e" /> 
 </p>
 
-**Cat Chaos:**
+**Cat Chaos!:**
 <https://github.com/mcneill-h/CatChaosSupport>  <https://github.com/mcneill-h/CatChaosPrivacy>
 
 I have not released the source code for this project yet, as it is a commercial game currently available on the App Store. 
 Instead, the game's support and privacy repositories links are copied above.
+
+You can now donwload the game on your Iphone by searching "CatChaos!" on the App store, or through the following link: <https://apps.apple.com/ch/app/cat-chaos/id6782337188?l=en-GB>
+
 <p align="center">
 <img width="250" height="250" alt="Screenshot 2026-06-23 at 21 39 28" src="https://github.com/user-attachments/assets/3708e962-87c4-46e4-9019-61979d9f54df" />  <img width="115" height="250" alt="01 copy 2" src="https://github.com/user-attachments/assets/7ba44d1e-a0db-4869-a1a8-5607c8fe1c62" />  <img width="116" height="250" alt="02 copy" src="https://github.com/user-attachments/assets/916f1060-51be-43e7-a3e4-c5c92279b4c2" />  <img width="116" height="250" alt="03 copy" src="https://github.com/user-attachments/assets/547d0696-b688-4439-8b9c-4dc9e11ef16d" />  <img width="116" height="250" alt="04 copy 2" src="https://github.com/user-attachments/assets/6a4ff3d6-a171-4c25-94fc-d1a73da8058a" />
 </p>
