@@ -1,6 +1,10 @@
 # <p align="center"> All my projects </p>
 
 <p align="center">
+<img width="348" height="212" alt="image" src="https://github.com/user-attachments/assets/b07698c1-c619-411e-a45f-d345a4a9823d" />  <img width="115" height="250" alt="01 copy 2" src="https://github.com/user-attachments/assets/7ba44d1e-a0db-4869-a1a8-5607c8fe1c62" /><img width="342" height="209" alt="image" src="https://github.com/user-attachments/assets/73e6ea7d-846b-4367-94ef-0e3ddf556825" /> 
+</p>
+
+<p align="center">
 <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">  <img src="https://img.shields.io/badge/PyTorch-2.2%2B-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">  <img src="https://img.shields.io/badge/Pygame-2.6-00AA00?style=for-the-badge&logo=pygame&logoColor=white" alt="Pygame">  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">  <img src="https://img.shields.io/badge/Arduino-Microcontrollers-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino Microcontrollers">  <img src="https://img.shields.io/badge/Godot-4.4-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot">  <img src="https://img.shields.io/badge/GDScript-2.0-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="GDScript">  <img src="https://img.shields.io/badge/Open_Source-Yes-success?style=for-the-badge" alt="Open Source">
 </p>
 
