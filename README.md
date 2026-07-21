@@ -1,7 +1,7 @@
 # <p align="center"> All my projects </p>
 
 <p align="center">
-<img width="348" height="212" alt="image" src="https://github.com/user-attachments/assets/b07698c1-c619-411e-a45f-d345a4a9823d" />  <img width="115" height="250" alt="01 copy 2" src="https://github.com/user-attachments/assets/7ba44d1e-a0db-4869-a1a8-5607c8fe1c62" /><img width="342" height="209" alt="image" src="https://github.com/user-attachments/assets/73e6ea7d-846b-4367-94ef-0e3ddf556825" /> 
+<img width="348" height="212" alt="image" src="https://github.com/user-attachments/assets/b07698c1-c619-411e-a45f-d345a4a9823d" />  <img width="210" height="210" alt="Screenshot 2026-06-23 at 21 39 28" src="https://github.com/user-attachments/assets/3708e962-87c4-46e4-9019-61979d9f54df" /> <img width="342" height="209" alt="image" src="https://github.com/user-attachments/assets/73e6ea7d-846b-4367-94ef-0e3ddf556825" /> 
 </p>
 
 <p align="center">
