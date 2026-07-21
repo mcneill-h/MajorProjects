@@ -58,7 +58,7 @@ The objective of this program is to help architects in their work by creating a 
 The final program can scan both digital blueprints and hand-drawn floor plans. It is capable of rendering up to 22,000 walls simultaneously while consuming only about 12% of the CPU on a MacOs (Intel Core i5 processor). With a more powerful processor, it can render up to a quarter of a million walls.
 
 <p align="center">
-<img width="348" height="212" alt="image" src="https://github.com/user-attachments/assets/b07698c1-c619-411e-a45f-d345a4a9823d" />  <img width="500" height="212" alt="2222" src="https://github.com/user-attachments/assets/bdb049c1-0b73-4014-b28d-fa55bb6a302e" /> 
+<img width="348" height="212" alt="image" src="https://github.com/user-attachments/assets/b07698c1-c619-411e-a45f-d345a4a9823d" />  <img width="450" height="191" alt="2222" src="https://github.com/user-attachments/assets/bdb049c1-0b73-4014-b28d-fa55bb6a302e" /> 
 </p>
 
 **Cat Chaos!:**
